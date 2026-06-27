@@ -1,0 +1,8 @@
+{
+    "name" : "Blumenau Explorer",
+    "short-name" : "Explorer",
+    "start_url" : "index.html",
+    "display" : "standalone",
+    "background-color" : "#ffffff"
+    
+}
